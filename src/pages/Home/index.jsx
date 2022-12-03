@@ -10,6 +10,7 @@ const Home = () => {
     }
     function handleForm(params) {
         params.preventDefault();
+        window.location.href = '';
         window.location.href += `#/details/${search}`;
 
     }
