@@ -6,6 +6,8 @@ Dev Search é uma aplicação para obter informações e listar todos os reposit
 
 Este projeto foi desenvolvido com o objetivo de facilitar a busca e compartilhamento de informações dos usuários e repositórios vinculados ao usuário no Github.
 
+<h2 ><a href="https://vinicyusabreu.github.io/DevSearch/" target="_blank">🚀 Link do Projeto 🚀</a></h2>
+
 ## ✨ Demonstração
 
 Veja abaixo um gif do projeto.</br>
