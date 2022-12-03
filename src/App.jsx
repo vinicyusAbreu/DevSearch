@@ -1,12 +1,12 @@
-import { BrowserRouter } from "react-router-dom"
+import { HashRouter } from "react-router-dom"
 import Rotas from "./routes"
 import GlobalStyle from "./styles/GlobalStyles"
 
 const App = () => (
-  <BrowserRouter>
+  <HashRouter>
     <GlobalStyle />
     <Rotas />
-  </BrowserRouter>
+  </HashRouter>
 )
 
 export default App
